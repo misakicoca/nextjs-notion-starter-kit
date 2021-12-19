@@ -1,3 +1,10 @@
+/* font: Dank Mono | all rights reserved */
+@font-face {
+  font-family: 'Dank Mono';
+  src: url('./Dank\ Mono.ttf');
+}
+
+
 * {
   box-sizing: border-box;
 }
@@ -11,7 +18,7 @@ body,
 html {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: 'Dank Mono', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
