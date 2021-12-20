@@ -41,6 +41,7 @@ export const Footer: React.FC<{
       ) : null}
 
       <div className={styles.social}>
+
         {config.twitter && (
           <a
             className={styles.twitter}

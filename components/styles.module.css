@@ -60,6 +60,10 @@
   padding: 0.5em;
 }
 
+.settings {
+  visibility:hidden;
+}
+
 .settings,
 .social {
   user-select: none;
