@@ -7,13 +7,13 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Misaki Coca',
+  name: 'Zhanbo Huang',
   domain: 'mcoca.dev',
-  author: 'Misaki Coca',
+  author: 'Zhanbo Huang',
 
   // open graph metadata (optional)
-  description: 'Blogs of Coca',
-  socialImageTitle: 'Blogs of Coca',
+  description: 'Blogs of Zhanbo Huang',
+  socialImageTitle: 'IBM Type 704',
   socialImageSubtitle: 'Some about Technology',
 
   // social usernames (optional)
