@@ -1,13 +1,25 @@
 /* font: Dank Mono | all rights reserved */
 @font-face {
   font-family: 'Dank Mono';
-  src: url('./Dank\ Mono.ttf');
+  src: url('./Dank-Mono.ttf');
+}
+
+/* font: LXGW Wenkai | all rights reserved */
+@font-face {
+  font-family: 'LXGW WenKai';
+  src: url('./LXGWWenKaiMono-Regular.ttf');
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  src: url('./LXGWWenKaiMono-Bold.ttf');
+  font-weight: bold;
 }
 
 
 * {
   box-sizing: border-box;
-  font-family: 'Dank Mono', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: 'Dank Mono', 'LXGW WenKai', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
