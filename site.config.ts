@@ -10,15 +10,15 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Zhanbo Huang',
-  domain: 'me.zbhuang.com',
+  domain: 'zbhuang.com',
   author: 'Zhanbo Huang',
 
   // open graph metadata (optional)
   description: 'Blogs of Zhanbo Huang',
 
   // social usernames (optional)
-  twitter: 'misakicoca',
-  github: 'misakicoca',
+  // twitter: 'misakicoca',
+  github: 'coca-huang',
   // linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
