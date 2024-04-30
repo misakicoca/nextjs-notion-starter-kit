@@ -168,6 +168,8 @@ export const fathomConfig = fathomId
   : undefined
 
 export const posthogId = process.env.NEXT_PUBLIC_POSTHOG_ID
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-ignore
 export const posthogConfig: Partial<PostHogConfig> = {
   api_host: 'https://app.posthog.com'
 }
